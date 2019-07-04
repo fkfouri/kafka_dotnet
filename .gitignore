@@ -1,0 +1,7 @@
+/.vs
+
+#Ignora as pastas bin e obj
+**/bin/
+**/obj/
+**/node_modules
+/packages
